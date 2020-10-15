@@ -1,0 +1,58 @@
+[
+    {
+        "orderId": 1001,
+        "customerName": "Senthil",
+        "itemsCount": 4,
+        "totalAmount": 480,
+        "status": "RECEIVED"
+    },
+    {
+        "orderId": 1002,
+        "customerName": "John",
+        "itemsCount": 3,
+        "totalAmount": 480,
+        "status": "RECEIVED"
+    },
+    {
+        "orderId": 1003,
+        "customerName": "Mike",
+        "itemsCount": 5,
+        "totalAmount": 480,
+        "status": "PREPARING"
+    },
+    {
+        "orderId": 1004,
+        "customerName": "William",
+        "itemsCount": 2,
+        "totalAmount": 480,
+        "status": "PREPARING"
+    },
+    {
+        "orderId": 1005,
+        "customerName": "Ram",
+        "itemsCount": 6,
+        "totalAmount": 480,
+        "status": "PREPARING"
+    },
+    {
+        "orderId": 1006,
+        "customerName": "Andrew",
+        "itemsCount": 7,
+        "totalAmount": 480,
+        "status": "SERVE"
+    },
+    {
+        "orderId": 1007,
+        "customerName": "Tony",
+        "itemsCount": 5,
+        "totalAmount": 480,
+        "status": "SERVE"
+    },
+    {
+        "orderId": 1008,
+        "customerName": "Christopher",
+        "itemsCount": 2,
+        "totalAmount": 480,
+        "status": "SERVE"
+    }
+]

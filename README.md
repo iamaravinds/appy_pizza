@@ -1,24 +1,16 @@
-# appy_pizza
+# Appy Pizza
+This is a sample project which will list all orders for a Pizza shop. It will display the status of every order.
 
 ## Project setup
+To install the dependencies, run with node version >= 12
 ```
 yarn install
 ```
+This will automatically take care of dependencies.
+*Note:`bootstrap-vue`  is the only dependency added.*
 
-### Compiles and hot-reloads for development
+### Run the Project in local
+To run in local
 ```
 yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
